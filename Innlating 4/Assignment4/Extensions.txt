@@ -1,7 +1,0 @@
-Assignment 4 extensions
-
-1. Colorful game elements
-Robots, the goal, and teleporters are displayed with ANSI terminal colors. This makes it easier to distinguish the board elements while playing in the console.
-
-2. Teleporter
-The Teleporter class is a BoardElement. If a robot lands on one teleporter cell while sliding, it is moved to the paired teleporter cell. If the destination is already occupied by another robot, the teleport does not happen.
